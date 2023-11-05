@@ -7,6 +7,8 @@
 - Zustand
 - React-hook-form
 - MUI
+- TypeDoc
+- React testing library
 
 ## Страницы приложения
 
